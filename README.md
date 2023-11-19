@@ -1,4 +1,4 @@
-# SmartContractManagement
+# SmartContractManagement (AVAX Module 2)
 
 ## Contract Details
 
